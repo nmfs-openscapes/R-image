@@ -30,8 +30,8 @@ jobs:
     - name: "Build and Publish to DockerHub"
       uses: elgohr/Publish-Docker-Github-Action@2.12
       with:
-        name: openscapes/rocker
-        username: openscapes
+        name: eeholmes/nmfsr
+        username: eeholmes
         password: ${{ secrets.DOCKERHUB_TOKEN }}
         workdir: ci
         tags: "main, ${{env.DOCKER_TAG}}"
