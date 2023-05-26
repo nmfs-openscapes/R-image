@@ -1,4 +1,4 @@
-# py-rocket 🚀
+# R-image 🚀
 
 [Rocker-based](https://hub.docker.com/r/rocker/geospatial) image for the NMFS Openscapes Hub
 ![](https://img.shields.io/docker/image-size/openscapes/rocker?sort=date)
