@@ -9,5 +9,3 @@
 
 This image publishes to the `openscapes/nmfsrocker` repository in the Docker registry and is meant to be used by R users in the JupyterHub deployment.
 
-## Test
-
